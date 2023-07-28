@@ -1,3 +1,3 @@
 # About-Cybersecurity
 ipv6 compresser
-Bu PYTHON programı ipv6ları kısaltmak için yazılmıştır.
+This PYTHON program was written to abbreviate ipv6s.
